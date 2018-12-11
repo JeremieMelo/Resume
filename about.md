@@ -50,7 +50,7 @@ layout: page
     <li>
     <b>Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction,</b>
     <br><b>Jiaqi Gu</b>, Jinhua Yu, Zeju Li, Yuanyuan Wang, Haowei Yang, Zhongwei Qiao
-    <br><i>Submitted to IEEE Journal of Biomedical and Health Informatics special issue on Machine Learning in Medical Imaging, Nov 2019</i>
+    <br><i>Submitted to IEEE Journal of Biomedical and Health Informatics special issue on Machine Learning in Medical Imaging, Nov 2018</i>
     </li><br>
 
 
