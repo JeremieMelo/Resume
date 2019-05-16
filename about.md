@@ -4,7 +4,7 @@ layout: page
 ---
 
 <h2>About me<hr></h2>
-<p>I am a 1st-year Ph.D student at UT Austin majoring in computer architecture and I am current doing research with <a href="https://lph.ece.utexas.edu/merez/MattanErez/MattanErez" style="text-decoration : none;color: #cc0000"> Professor Mattan Erez</a>. My current research interests are i) machine learning, ii) FPGA.
+<p>I am a 1st-year Ph.D student at UT Austin majoring in computer architecture and I am currently doing research with <a href="http://users.ece.utexas.edu/~dpan/" style="text-decoration : none;color: #cc0000"> Professor David Z. Pan</a>. My current research interests are i) machine learning, ii) optical neuromorphic computing.
 </p>
 
 
@@ -14,7 +14,16 @@ layout: page
     <b>The University of Texas at Austin (Austin, Tx)</b>
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
-    <div style="float: right">09/2018 - Present</div>
+    <div style="float: right">01/2019 - Present</div>
+    <br>Optical neural network architecture design
+    <br>ASIC Placement acceleration with GPUs
+    </li><br>
+	
+    <li>
+    <b>The University of Texas at Austin (Austin, Tx)</b>
+    <br>
+    <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
+    <div style="float: right">09/2018 - 01/2019</div>
     <br>Projected RISC-V Rocket Core on Zynq FPGA and achieved communication between them
     <br>Customized FIRRTL transformation and built infrastructure for fault injection and system state snapshot
     </li><br>
