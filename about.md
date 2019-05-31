@@ -35,7 +35,7 @@ layout: page
     <div style="float: right">08/2017 - 07/2018</div>
     <br>Modified infant brain atlas offered by UNC and created complete tissue probability maps
     <br>Developed two-stage reconstruction framework for infant thin-section MR image reconstruction by using GANs and CNN; research is developing brand new method to improve reconstruction performance by fusing multi-planar MR images, and improving PSNR, SSIM, and NMI by 26.2%, 93.4%, and 25.3% respectively compared to bicubic interpolation
-    <br>Wrote academic paper on proposed reconstruction method
+    <br>Wrote academic paper on proposed reconstruction method that was published in IEEE Access, May 2019.
     </li><br>
 
     <li>
