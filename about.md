@@ -100,6 +100,6 @@ layout: page
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>C/C++ Python CUDA Tensorflow Pytorch Matlab Verilog Chisel Java</li>
+	<li>C/C++ Python CUDA Tensorflow PyTorch Matlab Verilog Chisel Java</li>
 </ul>
 
