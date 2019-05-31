@@ -11,7 +11,7 @@ layout: page
 <h2>Research Experience<hr></h2>
 <ul> 
     <li>
-    <b>The University of Texas at Austin (Austin, Tx)</b>
+    <b>The University of Texas at Austin (Austin, TX)</b>
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
     <div style="float: right">01/2019 - Present</div>
@@ -20,7 +20,7 @@ layout: page
     </li><br>
 	
     <li>
-    <b>The University of Texas at Austin (Austin, Tx)</b>
+    <b>The University of Texas at Austin (Austin, TX)</b>
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
     <div style="float: right">09/2018 - 01/2019</div>
