@@ -91,6 +91,10 @@ layout: page
     Computer Architecture (EE 382N 1) <br>
     High Speed Computer Arithmetic (EE 382N 14) <br>
     </li>
+    <li><b>Parallel Computing</b><br>
+    Computer Architecture: Parallism/Locality (EE 382N 20) <br>
+    Parallel Algorithm Scientific Computing (CS 395T) <br>
+    </li>
 </ul>
 
 
