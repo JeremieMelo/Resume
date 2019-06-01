@@ -71,6 +71,13 @@ layout: page
 
 </ul>
 
+<h2>Awards and Honors<hr></h2>
+<ul>
+    <li>
+    <b>4th place in 2019 DAC System Design Contest on Low Power Object Detection</b>
+    </li><br>
+</ul>
+
 
 <h2>Education<hr></h2>
 <ul>
