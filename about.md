@@ -42,7 +42,7 @@ layout: page
     <b>Fudan University (Shanghai, China)</b>
     <br>
     <div style="float: left"><b><i>Research Assistant</i></b></div>
-    <div style="float: right">09/2016 - 07/2018</div>
+    <div style="float: right">09/2016 - 07/2017</div>
     <br>Developed embedded simulation system on Xilinx Zynq-7000 AP SoC with partial reconfiguration techniques; system allows for end-to-end software/hardware co-design project simulation
     <br>Achieved convenient Wi-Fi connection, flexible development environment, and no network downloading latency
     <br>Designed embedded server and client PC application that could manage simulation requests from multiple users
