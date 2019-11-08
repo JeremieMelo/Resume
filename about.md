@@ -15,7 +15,7 @@ layout: page
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
     <div style="float: right">01/2019 - Present</div>
-    <br>Optical neural network architecture design
+    <br>Optical neural network architecture and algorithm design
     <br>ASIC Placement acceleration with GPUs
     </li><br>
 	
@@ -56,6 +56,18 @@ layout: page
 <h2>Publication<hr></h2>
 <ul>
 
+    <li>
+    <b>Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture,</b>
+    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen, David Z. Pan
+    <br><i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Beijing, China, Jan. 13-16, 2020.</i>
+    </li><br>
+    
+    <li>
+    <b>ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls,</b>
+    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen, David Z. Pan
+    <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
+    </li><br>
+    
     <li>
     <b>Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction,</b>
     <br><b>Jiaqi Gu</b>, Zeju Li, Yuanyuan Wang, Haowei Yang, Zhongwei Qiao, Jinhua Yu
