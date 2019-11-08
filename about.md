@@ -58,26 +58,32 @@ layout: page
 
     <li>
     <b>Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture,</b>
-    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen, David Z. Pan
+    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
     <br><i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Beijing, China, Jan. 13-16, 2020.</i>
     </li><br>
     
     <li>
     <b>ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls,</b>
-    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen, David Z. Pan
+    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
     <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
     </li><br>
     
     <li>
+    <b>Design Technology for Scalable and Robust Photonic Integrated Circuits,</b>
+    <br>Zheng Zhao, <b>Jiaqi Gu</b>, Zhoufeng Ying, Chenghao Feng, Ray T. Chen and David Z. Pan
+    <br><i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4-7, 2019. (Invited Paper)</i>
+    </li><br>
+    
+    <li>
     <b>Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction,</b>
-    <br><b>Jiaqi Gu</b>, Zeju Li, Yuanyuan Wang, Haowei Yang, Zhongwei Qiao, Jinhua Yu
+    <br><b>Jiaqi Gu</b>, Zeju Li, Yuanyuan Wang, Haowei Yang, Zhongwei Qiao and Jinhua Yu
     <br><i>IEEE Access, May 2019. 10.1109/ACCESS.2019.2918926</i>
     </li><br>
 
 
     <li>
     <b>Remote Embedded Simulation System for SW/HW Co-design Based On Dynamic Partial Reconfiguration,</b>
-    <br><b>Jiaqi Gu</b>, Ruoyao Wang, Jian Wang, Jinmei Lai, Qinghua Duan
+    <br><b>Jiaqi Gu</b>, Ruoyao Wang, Jian Wang, Jinmei Lai and Qinghua Duan
     <br><i>IEEE 12th International Conference on ASIC, Oct 2017</i>
     </li><br>
 
