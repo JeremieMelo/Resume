@@ -62,11 +62,13 @@ layout: page
     <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
     </li><br>
     
+    
     <li>
     <b>Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning,</b>
-    <br><b>Mingjie Liu, Keren Zhu, <b>Jiaqi Gu</b>, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
+    <br>Mingjie Liu, Keren Zhu, <b>Jiaqi Gu</b>, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
     <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
     </li><br>
+
 
     <li>
     <b>Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture,</b>
@@ -74,11 +76,13 @@ layout: page
     <br><i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Beijing, China, Jan. 13-16, 2020.</i>
     </li><br>
     
+    
     <li>
     <b>Design Technology for Scalable and Robust Photonic Integrated Circuits,</b>
     <br>Zheng Zhao, <b>Jiaqi Gu</b>, Zhoufeng Ying, Chenghao Feng, Ray T. Chen and David Z. Pan
     <br><i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4-7, 2019. (Invited Paper)</i>
     </li><br>
+    
     
     <li>
     <b>Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction,</b>
