@@ -55,17 +55,23 @@ layout: page
 
 <h2>Publication<hr></h2>
 <ul>
+	
+    <li>
+    <b>ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls,</b>
+    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+    <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
+    </li><br>
+    
+    <li>
+    <b>Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning,</b>
+    <br><b>Mingjie Liu, Keren Zhu, <b>Jiaqi Gu</b>, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
+    <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
+    </li><br>
 
     <li>
     <b>Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture,</b>
     <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
     <br><i>IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Beijing, China, Jan. 13-16, 2020.</i>
-    </li><br>
-    
-    <li>
-    <b>ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls,</b>
-    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
-    <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
     </li><br>
     
     <li>
