@@ -4,7 +4,7 @@ layout: page
 ---
 
 <h2>About me<hr></h2>
-<p>I am a 1st-year Ph.D student at UT Austin majoring in computer architecture and I am currently doing research with <a href="http://users.ece.utexas.edu/~dpan/" style="text-decoration : none;color: #cc0000"> Professor David Z. Pan</a>. My current research interests are i) machine learning, ii) optical neuromorphic computing.
+<p>I am a 2nd-year Ph.D student at UT Austin majoring in integrated circuits and system and I am currently doing research with <a href="http://users.ece.utexas.edu/~dpan/" style="text-decoration : none;color: #cc0000"> Professor David Z. Pan</a>. My current research interests are i) machine learning, ii) optical neuromorphic computing for AI acceleration.
 </p>
 
 
@@ -15,8 +15,12 @@ layout: page
     <br>
     <div style="float: left"><b><i>Graduate Research Assistant</i></b></div>
     <div style="float: right">01/2019 - Present</div>
-    <br>Optical neural network architecture and algorithm design
-    <br>ASIC Placement acceleration with GPUs
+    <br>Designed novel architecture for area-efficient optical neural network based on Fast Fourier Transformation; achieved 3-4x area reduction than previous ONN architectures; Wrote academic paper that was published in IEEE/ACM ASP-DAC, Jan 2020.
+    <br>Developed noise-aware quantization scheme to enable robust optical neural networks with low-precision voltage controls; achieved better accuracy and robustness to limited control resolution and device-level variations than previous methods; Wrote academic paper that was published in DATE, Mar 2020.
+    <br>Proposed efficient on-chip learning algorithm for optical neural networks with stochastic zeroth-order optimization algorithms; achieved 3-4x higher ONN forward efficiency and better robustness to thermal variation than previous methods.
+    <br>Worked on photonic chip tapeout for novel ONN architectures with synopsys optodesigner.
+    <br>Collaborated on the design of photonic recurrent neural networks.
+    <br>Helped develop high-performance CUDA kernels for ASIC Placement acceleration with GPUs.
     </li><br>
 	
     <li>
@@ -130,11 +134,14 @@ layout: page
     Computer Architecture: Parallism/Locality (EE 382N 20) <br>
     Parallel Algorithm Scientific Computing (CS 395T) <br>
     </li>
+    <li><b>Machine Learning Algorithm</b><br>
+    Reinforcement Learning: Theory and Practice (CS 384R) <br>
+    </li>
 </ul>
 
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>C/C++ Python CUDA Tensorflow PyTorch Matlab Verilog Chisel Java</li>
+	<li>Python PyTorch C/C++ CUDA Tensorflow Matlab Verilog Chisel Java</li>
 </ul>
 
