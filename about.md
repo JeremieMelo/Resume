@@ -135,7 +135,7 @@ layout: page
     Parallel Algorithm Scientific Computing (CS 395T) <br>
     </li>
     <li><b>Machine Learning Algorithm</b><br>
-    Reinforcement Learning: Theory and Practice (CS 384R) <br>
+    Reinforcement Learning: Theory and Practice (CS 394R) <br>
     </li>
 </ul>
 
