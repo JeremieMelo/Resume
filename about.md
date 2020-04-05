@@ -62,7 +62,7 @@ layout: page
 	
     <li>
     <b>ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls,</b>
-    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+    <br><b>Jiaqi Gu</b>, Zheng Zhao, Chenghao Feng, Ray T. Chen and David Z. Pan
     <br><i>IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.</i>
     </li><br>
     
